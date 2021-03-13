@@ -10,6 +10,7 @@ History
 * [/news] Fix bug in get_news() when sources list is empty (#566)
 * Development: Run tests in Github Actions instead of Travis.org
 * Development: This is the last version of tiingo that will support Python 3.5 and below. (#601)
+* Updated README.rst with cryptocurrency documentation
 
 0.13.0 (2020-12-12)
 --------------------------------
